@@ -1,0 +1,7 @@
+components:
+  - name: docker
+    version: 1.1.0
+  - name: podman
+    version: 0.1.1
+  - name: nginx
+    version: 2.0.0
